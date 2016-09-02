@@ -1,0 +1,26 @@
+{
+  "name": "lrm-google",
+  "version": "1.0.0",
+  "description": "Support for Google Directions API in Leaflet Routing Machine",
+  "main": "L.Routing.Google.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kahkhang/lrm-google.git"
+  },
+  "keywords": [
+    "lrm",
+    "google"
+  ],
+  "author": "Kah Khang Low",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahkhang/lrm-google/issues"
+  },
+  "homepage": "https://github.com/kahkhang/lrm-google",
+  "dependencies": {
+    "googlemaps": "^1.0.1"
+  }
+}
